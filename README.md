@@ -16,7 +16,7 @@
 	<a href="https://www.discord.com/users/360895618966880259"><img src="https://img.shields.io/badge/-koppeks-7289da?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-### Currently learning
+## Currently learning
 <p>
 NextJS, Tailwind, Typescript & PostgreSQL
 </p>
