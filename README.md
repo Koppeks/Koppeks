@@ -1,9 +1,6 @@
 <!-- Greeting -->
 ## Github statistics
 <p align = "center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Koppeks"/>
-</p>
-<p align = "center">
 	<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=koppeks&theme=highcontrast&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 
