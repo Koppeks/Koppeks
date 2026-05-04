@@ -18,6 +18,6 @@
 
 ### Currently learning
 <p>
-NextJS, Typescript & Prisma ORM
+NextJS, Tailwind, Typescript & PostgreSQL
 </p>
 
