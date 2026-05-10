@@ -18,6 +18,6 @@
 
 ## Currently learning
 <p>
-NextJS, Tailwind, Typescript & PostgreSQL
+Fastify, Tailwind, Typescript & PostgreSQL
 </p>
 
